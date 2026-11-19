@@ -1,0 +1,15 @@
+# data is downloaded by the notebook
+data/*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
